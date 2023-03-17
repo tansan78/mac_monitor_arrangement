@@ -1,0 +1,10 @@
+
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+Program to adjust monitors: https://github.com/jakehilborn/displayplacer
+
+
+step 1
+1. adjust monitor to ideal states
+2. run save_monitor_arrangement.sh; then save the printed command
+3. run the saved command to change monitor arrangement back
